@@ -518,3 +518,15 @@ header .icon_field ul li:nth-child(5)::after {
   color: #C7C7C7;
   margin-left: 10px;
 }
+.bg-secondary {
+  background-color: #264968!important;
+}
+.close-btn-c {
+  padding: 0 !important;
+  width: 30px;
+  height: 30px;
+}
+.btn-check:focus+.btn-light, .btn-light:focus {
+
+  box-shadow: none;
+}
